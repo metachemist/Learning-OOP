@@ -3,7 +3,7 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 .idea
-Java1.0.iml
+Learning-OOP.iml
 
 ### Eclipse ###
 .apt_generated
@@ -26,7 +26,6 @@ bin/
 
 ### VS Code ###
 .vscode/
-
 
 
 ### Mac OS ###
