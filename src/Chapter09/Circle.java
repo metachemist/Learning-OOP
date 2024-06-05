@@ -1,7 +1,3 @@
-package Chapter09;
-
-
-
 class SimpleCircle{
     double radius;
 

@@ -1,6 +1,3 @@
-package Chapter09;
-
-
 class Television {
     int channel = 1;
     int volumeLevel = 1;
