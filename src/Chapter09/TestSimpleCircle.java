@@ -17,14 +17,13 @@ class SimpleCircle{
         return 2 * radius * Math.PI;
     }
 
-    void setRadius(double newRadius){ // why???
+    void setRadius(double newRadius){  // why???
         radius = newRadius;
     }
-
-    
-
 }
-public class Circle {
+
+
+public class TestSimpleCircle { //SimpleCircle
     public static void main(String[] args){
 
         /*Circle Class */
