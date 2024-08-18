@@ -29,7 +29,7 @@ class CircleWithStaticMembers{
 
 public class TestCircleWithStaticMembers {
     public static void main(String[] args) {
-        System.out.println("Before creating object.....");
+        System.out.println("Before creating object......");
         System.out.println("The number of objects created " + CircleWithStaticMembers.getNumberOfObjects());
 
         CircleWithStaticMembers c1 = new CircleWithStaticMembers();
