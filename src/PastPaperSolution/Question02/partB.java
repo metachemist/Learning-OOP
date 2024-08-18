@@ -11,7 +11,7 @@ class A{
     A(String newS){
         S = newS;
     }
-    A(){}
+    A(){} //Constructor
     public void print(){
         System.out.println(S);
     }
